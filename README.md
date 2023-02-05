@@ -13,24 +13,7 @@
 
 > Profile
 
-### ✨ [Demo](discord.gg/lamborhini)
-
-## Prerequisites
-
-- npm >=5.5.0
-- node >=9.3.0
-
-## Install
-
-```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
-```
+### ✨ [Discord](discord.gg/lamborhini)
 
 ## Author
 
