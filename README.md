@@ -13,7 +13,7 @@
 
 > Profile
 
-### ✨ [Discord](https://discord.gg/lamborhini)
+### ✨ [Discord](https://discord.gg/lamborghini)
 
 ## Author
 
